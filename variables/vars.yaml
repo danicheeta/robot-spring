@@ -1,0 +1,12 @@
+city_name: city1
+city_state: state1
+city_country: country1
+city_map: 123,-2
+
+hotel_name: hotel1
+hotel_address: haddres1
+hotel_zip: 123
+
+base_url: http://localhost:8080
+hotel_url: /api/hotels
+city_url: /api/cities
